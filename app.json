@@ -1,0 +1,32 @@
+{
+    "name": "QUEEN-ELISA-MD",
+    "description": "Queen Elisa Whatsapp Bot By TRISTAN/TUESDAY. You Must Fill This form for bot deploy!",
+    "repository": "https://github.com/tristany7122/QUEEN-ELISA-MD",
+    "logo": "https://i.ibb.co/HLKnFPM4/shaban-md.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp QUEEN-ELISA-MD Bot"
+    ],
+    "env": {
+        "SESION_ID": {
+            "description": "Get using Scan QR Code or Using Pair code.",
+            "required": true
+        },
+        "MONGODB_URL": {
+            "description": "Put Mongodb Database Url for Run Bot",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "woker": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    }
+}
