@@ -1,8 +1,8 @@
 require('dotenv').config({ path: './elisaConfig.env' });
 /*
 PROJECT: QUEEN ELISA WHATSAPP BOT
-VERSION: 4.0.2
-OWNER: @darkmakerofc | @MR-NIMA-X
+VERSION: 1.0.0
+OWNER: @tristan | @TUESDAY
 */
 
 module.exports = {
