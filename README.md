@@ -34,7 +34,7 @@ And Follow tristany7122 and give one star for queen elisa.
 
 #### Give One star For Queen Elisa and [Follow Me](https://github.com/tristany7122/QUEEN-ELISA-MD) 
 
-## How create queen elisa.
+## How to create queen elisa.
 **1. You must need those things before deploy.**
  - _Github Account._
  - _mongodb url ( sing up and get mongodb url )_
@@ -89,7 +89,7 @@ npm start
 [![TRISTANYT](https://img.shields.io/badge/SUBSCRIBE%20ME-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tristany71/)</br>
 [![TRISTANYT](https://img.shields.io/badge/FOLLOW%20TRISTAN%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IMF1LrcOE828VlnFCSZTtH?mode=ems_copy_t)</br>
 [![TRISTANYT](https://img.shields.io/badge/FOLLOW%20TUESDAY%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBTHMoFi8xbR318gB2u)</br>
-[!</br>
+</br>
 ## Authors
 - [@TRISTAN/TUESDAY](https://github.com/tristany7122/QUEEN-ELISA-MD)
 
