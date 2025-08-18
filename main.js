@@ -1,4 +1,4 @@
-*/
+/*
 
 ░██████╗░██╗░░░██╗███████╗███████╗███╗░░██╗  ███████╗██╗░░░░░██╗░██████╗░█████╗░
 ██╔═══██╗██║░░░██║██╔════╝██╔════╝████╗░██║  ██╔════╝██║░░░░░██║██╔════╝██╔══██╗
@@ -17,14 +17,47 @@ BOT NAME: QUEEN ELISA
 OWNER: TRISTAN(TUESDAY)
 GITHUB: 
     - @tristan7122
-- Telegram;
+    - Telegram;
     
     > https://t.me/tristany71
     > https://t.me/tristany71
-
 */
 
-(function (_0x2ccc17, _0x5d79a9) {
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    (function (_0x2ccc17, _0x5d79a9) {
   var _0x2fc30e = _0x2ccc17();
   while (true) {
     try {
