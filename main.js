@@ -270,7 +270,7 @@ function _0x1ce7c0(_0x5a8643, _0x4cccbd, _0x991e2c, _0x478a1c, _0x2ff946) {
   return _0x3f43(_0x2ff946 + 0x333, _0x4cccbd);
 }
 app.get('/', (_0x30c21e, _0x3dde0e) => {
-  _0x3dde0e.send("✅ QUEEN ELISA MD 1.0.0 - V WORKING...");
+  _0x3dde0e.send("✅ QUEEN ELISA MD 4.0.2 - V WORKING...");
 });
 app.get("/bot/restart", (_0x28e4d3, _0x5f0021) => {
   const {
