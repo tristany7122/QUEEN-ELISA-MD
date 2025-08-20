@@ -319,3 +319,5 @@ app.get("/bot/sotp", (_0x3e66a8, _0x5af8fa) => {
 if (!(process.env.GITHUB_ACTIONS === "true")) {
   app.listen(PORT, () => console.log(chalk.magentaBright.bold("[ QUEEN-ELISA ] ") + "Bot is run on PORT : ", PORT));
 }
+
+
