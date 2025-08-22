@@ -468,7 +468,7 @@ module.exports = tristan/tuesday = async (_0x4e6a55, _0x38517a, _0x3138c7, _0x2b
             if (_0x507854) {
               return;
             }
-            const _0x41a8d1 = "◯──────────────────────────◯\n           ```🤖 AI WHATSAPP BOT 🤖```\n◯──────────────────────────◯\n\n👨‍💻 Developed by : ```TRISTAN/TUESDAY```\n🏢 Owner : " + global.OWNER_NAME + "\n🌐 Mode : " + "private" + "\n\n*✨ Here are the available commands ✨*\n\n💬 ." + _0x40e518 + "\n🖼️ ." + _0x1e44f6 + "\n📚 .git\n🔑 .jid\n⚙️ .setapi\n🛠️ .getapi\n📝 .owner-note\n🔄 .restart\n⏱️ .runtime\n\n*🚀 Deploy Your Own:*\n https://github.com/Tristany7122/QUEEN-ELISA-V2\n";
+            const _0x41a8d1 = "◯──────────────────────────◯\n           ```🤖 AI WHATSAPP BOT 🤖```\n◯──────────────────────────◯\n\n👨‍💻 Developed by : ```TRISTAN/TUESDAY```\n🏢 Owner : " + global.OWNER_NAME + "\n🌐 Mode : " + "private" + "\n\n*✨ Here are the available commands ✨*\n\n💬 ." + _0x40e518 + "\n🖼️ ." + _0x1e44f6 + "\n📚 .git\n🔑 .jid\n⚙️ .setapi\n🛠️ .getapi\n📝 .owner-note\n🔄 .restart\n⏱️ .runtime\n\n*🚀 Deploy Your Own:*\n https://github.com/Tristany7122/QUEEN-ELISA-MD\n";
             await _0x5d5d32(_0x41a8d1);
           }
           break;
@@ -582,7 +582,7 @@ module.exports = tristan/tuesday = async (_0x4e6a55, _0x38517a, _0x3138c7, _0x2b
             if (_0x507854) {
               return;
             }
-            await _0x5d5d32("*---[ OpenAi ChatGPT BOT GITHUB ]---*\n\n*_ https://github.com/Tristany7122/QUEEN-ELISA-V2_*\n*_" + global.video_link + "_*\n");
+            await _0x5d5d32("*---[ OpenAi ChatGPT BOT GITHUB ]---*\n\n*_ https://github.com/Tristany7122/QUEEN-ELISA-MD_*\n*_" + global.video_link + "_*\n");
           }
           break;
         case "owner-note":
@@ -711,7 +711,7 @@ module.exports = tristan/tuesday = async (_0x4e6a55, _0x38517a, _0x3138c7, _0x2b
             if (_0x507854) {
               return;
             }
-            const _0x369086 = "◯──────────────────────────◯\n           ```🤖 AI WHATSAPP BOT 🤖```\n◯──────────────────────────◯\n\n👨‍💻 Developed by : ```TRISTAN/TUESDAY```\n🏢 Owner : " + global.OWNER_NAME + "\n🌐 Mode : " + 'Public' + "\n\n*✨ Here are the available commands ✨*\n\n💬 ." + _0x40e518 + "\n💬 ." + _0x1798ac + "\n🖼️ ." + _0x1e44f6 + "\n📚 .git\n🔑 .jid\n⚙️ .setapi\n🛠️ .getapi\n📝 .owner-note\n🔄 .restart\n⏱️ .runtime\n\n*🚀 Deploy Your Own:*\nhttps://github.com/Tristany7122/QUEEN-ELISA-V2\n";
+            const _0x369086 = "◯──────────────────────────◯\n           ```🤖 AI WHATSAPP BOT 🤖```\n◯──────────────────────────◯\n\n👨‍💻 Developed by : ```TRISTAN/TUESDAY```\n🏢 Owner : " + global.OWNER_NAME + "\n🌐 Mode : " + 'Public' + "\n\n*✨ Here are the available commands ✨*\n\n💬 ." + _0x40e518 + "\n💬 ." + _0x1798ac + "\n🖼️ ." + _0x1e44f6 + "\n📚 .git\n🔑 .jid\n⚙️ .setapi\n🛠️ .getapi\n📝 .owner-note\n🔄 .restart\n⏱️ .runtime\n\n*🚀 Deploy Your Own:*\nhttps://github.com/Tristany7122/QUEEN-ELISA-MD\n";
             await _0x5d5d32(_0x369086);
           }
           break;
@@ -861,7 +861,7 @@ module.exports = tristan/tuesday = async (_0x4e6a55, _0x38517a, _0x3138c7, _0x2b
             if (_0x507854) {
               return;
             }
-            _0x5d5d32("*---[ OpenAi ChatGPT BOT GITHUB ]---*\n\n*_ https://github.com/Tristany7122/QUEEN-ELISA-V2_*\n*_" + global.video_link + "_*\n");
+            _0x5d5d32("*---[ OpenAi ChatGPT BOT GITHUB ]---*\n\n*_ https://github.com/Tristany7122/QUEEN-ELISA-MD_*\n*_" + global.video_link + "_*\n");
           }
           break;
         case "owner-note":
