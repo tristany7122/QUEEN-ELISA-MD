@@ -2,7 +2,7 @@
   "name": "queenelisa",
   "version": "4.0.2",
   "description": "QUEEN ELISA is an intelligent communication bot designed to interact with users and provide various services. Developed by Tristan/tuesday, it enhances user engagement through automated responses, information retrieval, and downloading media. Versatile for applications like personal assistance.",
-  "main": "index.js",
+  "main": "main.js",
   "directories": {
     "lib": "lib"
   },
@@ -18,7 +18,7 @@
     "queen",
     "elisa",
     "whatsapp",
-    "mrnima",
+    "tristan",
     "automate",
     "baileys",
     "wa-web",
